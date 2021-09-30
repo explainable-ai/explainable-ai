@@ -51,6 +51,7 @@ Our team is made of a community of data scientists, data analysts, designers, en
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
   
+----
 <div align="center"> 
   
 ## Connect with Us <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
