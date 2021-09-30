@@ -46,12 +46,6 @@ Our team is made of a community of data scientists, data analysts, designers, en
 <img src ="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />
   
 ----
-  
- # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-  
-----
 <div align="center"> 
   
 ## Connect with Us <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
@@ -63,6 +57,7 @@ Our team is made of a community of data scientists, data analysts, designers, en
 
 <br><br>
 ----
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=explainable-ai.explainable-ai)
 <!--
 **explainable-ai/explainable-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
