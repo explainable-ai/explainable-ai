@@ -1,9 +1,9 @@
 
 <div align="center">  
   
-<img src="https://user-images.githubusercontent.com/87038829/135473651-2cafc5a1-4f19-445a-8e9a-79ceee3fa0c0.PNG" alt="name banner" />
-
-<div align="center">  
+<img src="https://user-images.githubusercontent.com/87038829/135473651-2cafc5a1-4f19-445a-8e9a-79ceee3fa0c0.PNG" alt="name banner" /> 
+  
+<div align="left">
   
 ## About Us
   
@@ -17,6 +17,7 @@ At Explainable.AI, we focus on solving complex business problems using custom ma
 Our expert team enjoys a good challenge as each project is a new adventure for us. Our team develops effective tools which smoothly cooperate with your existing software and we do our best to provide a tailored solution that will serve our clients well for many years. We ensure that our products will improve your business efficiency, not only now, but also in the future as it adapts to changes.
 
 Our team is made of a community of data scientists, data analysts, designers, engineers, consultants who are open-minded, creative, collaborative and professionally growing people.
+  
 
 <div align="center">
 <a href="https://twitter.com/eXplAIn_able">
@@ -32,7 +33,8 @@ Our team is made of a community of data scientists, data analysts, designers, en
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>  
-  
+
+
 ### Languages, Tools, and Skills 🛠
 <div align="center">
 <img  src ="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
