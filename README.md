@@ -54,6 +54,36 @@ Our team is made of a community of data scientists, data analysts, designers, en
 <img src ="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />
 </div> 
   
+  
+#### AI Development and Consulting
+  
+<div align="center">
+
+<table>
+  <tr>
+    <td>DATA ANALYTICS</td>
+     <td>NLP & TEXT ANALYTICS</td>
+     <td>COMPUTER VISION</td>
+  </tr>
+  <tr>
+    <td><img src="https://static.wixstatic.com/media/ebba0e_cd1c8901259548579014ea093b736913~mv2.gif" width=270 height=270></td>
+    <td><img src="https://static.wixstatic.com/media/ebba0e_2b74812bbea84f498801355947be49aa~mv2.gif" width=270 height=270></td>
+    <td><img src="https://static.wixstatic.com/media/ebba0e_c2e5737da194495ba756313ad34fd0ff~mv2.gif" width=270 height=270></td>
+  </tr>
+    <tr>
+    <td>PREDICTIVE ANALYTICS</td>
+     <td>MACHINE LEARNING</td>
+     <td>BI IMPLEMENTATION</td>
+  </tr>
+    <tr>
+    <td><img src="https://static.wixstatic.com/media/ebba0e_eb98254566694585a8387c03c69d25ad~mv2.gif" width=270 height=270></td>
+    <td><img src="https://static.wixstatic.com/media/ebba0e_d4dd8d7d691843ecb3531d6735b9d3f4~mv2.gif" width=270 height=270></td>
+    <td><img src="https://static.wixstatic.com/media/ebba0e_362c89b9deed4dde91a7c976538f99f0~mv2.gif" width=270 height=270></td>
+  </tr>
+ </table>
+  
+   
+  
 ---- 
   
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=explainable-ai.explainable-ai)
