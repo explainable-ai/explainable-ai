@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="architonomy_readme_banner_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="architonomy_readme_banner_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/explainable-ai/explainable-ai/main/assets/architonomy_readme_banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/explainable-ai/explainable-ai/main/assets/architonomy_readme_banner_light.png">
   <img alt="Architonomy — AI Engineering, MLOps, AIOps" src="architonomy_readme_banner_light.png" width="100%">
 </picture>
 
@@ -23,7 +23,4 @@ AI Engineering. MLOps. AIOps. Independent by design.
 ---
 
 <sub>Architonomy is the engineering practice of Explainable AI, LLC (est. 2021, Kansas). Explainable AI, LLC does business as Architonomy — one company, one practice, one name going forward.</sub>
-
-
-
 
